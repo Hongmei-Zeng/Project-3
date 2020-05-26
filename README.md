@@ -1,6 +1,8 @@
 ![alt text](/static/images/Nutrometer.png) 
 
-# Project-3 https://nutrometer.herokuapp.com/
+https://nutrometer.herokuapp.com/
+
+# Project-3 
 
 
 **Nutrometer** is a WebApp health tool designed for managing your daily nutrition intake. As an important healthy dining program, you’ll use Nutrometer to record your meals, search nutrients of a certain type of food, and analyze nutritional contents against the USDA recommendations.
