@@ -36,7 +36,7 @@ This key component includes three important functions: “Today’s Statistics�
 
 • 	“Last 5 Entries”: it shows the latest five meal data for reference.
 
-•   It also provides navigable access to “Analysis”, “Nutrition Lookup”, and “Food History” functions.
+•    It also provides navigable access to “Analysis”, “Nutrition Lookup”, and “Food History” functions.
 
 
 ![alt text](/static/images/newdashboard.png)
