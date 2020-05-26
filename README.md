@@ -39,10 +39,6 @@ This key component includes three important functions: “Today’s Statistics�
 •   It also provides navigable access to “Analysis”, “Nutrition Lookup”, and “Food History” functions.
 
 
-![alt text](/static/images/newdashboard.png)
-
-
-
 **Quick Add**
 
 This part provides "Advanced Search" function.
