@@ -45,10 +45,6 @@ This key component includes three important functions: “Today’s Statistics�
 
 This part provides "Advanced Search" function.
 
-
-![alt text](/static/images/advancedsearchlink.png)
-
-
 The function's applied Machine Learning to help user find food items by closest food name matches. It provides user extremely convenient input window.
 
 
