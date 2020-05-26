@@ -30,11 +30,11 @@ As soon as you successfully finish registering as a new user, you are able to lo
 
 This key component includes three important functions: “Today’s Statistics”, “Quick Add”, and “Last 5 Entries”. 
 
-•	“Today’s Statistics”: it provides a brief data on your nutrients intake and remaining.
+• 	“Today’s Statistics”: it provides a brief data on your nutrients intake and remaining.
 
-•	“Quick Add”: it is the convenient window to take your meal records. It provides different menus for your inputs and makes the work easy.
+• 	“Quick Add”: it is the convenient window to take your meal records. It provides different menus for your inputs and makes the work easy.
 
-•	“Last 5 Entries”: it shows the latest five meal data for reference.
+• 	“Last 5 Entries”: it shows the latest five meal data for reference.
 
 •   It also provides navigable access to “Analysis”, “Nutrition Lookup”, and “Food History” functions.
 
